@@ -76,84 +76,55 @@ main{
   padding-top: 25px;
 }
 
-.check{
-  color: rgb(52, 247, 52);
+.icon{
   width: 20px;
-  border: 1px solid rgb(52, 247, 52);
   text-align: center;
   line-height: 100%;
   border-radius: 50%;
   display: inline-block;
+}
+
+.check{
+  color: rgb(52, 247, 52);
+  border: 1px solid rgb(52, 247, 52);
 }
 
 .cross{
   color: rgb(255, 0, 0);
-  width: 20px;
   border: 1px solid rgb(255, 0, 0);
-  text-align: center;
-  line-height: 100%;
-  border-radius: 50%;
+}
+
+.area{
+  color: white;
+  border: 1px solid lightgrey;
+  border-radius: 12px;
+  padding: 5px 10px;
   display: inline-block;
+  margin-left: 10px;
 }
 
 .editorial{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(69, 199, 250);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .goals{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(132, 57, 161);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .recruiting{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(25, 204, 121);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .mobile{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(248, 159, 87);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .website{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(248, 97, 190);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .sales{
-  color: white;
-  border: 1px solid lightgrey;
-  border-radius: 10px;
-  padding: 5px 10px;
   background-color: rgb(75, 224, 5);
-  display: inline-block;
-  margin-left: 10px;
 }
 
 .item span{
