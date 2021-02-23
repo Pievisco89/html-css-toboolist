@@ -28,7 +28,8 @@ body{
 main{
   width: 70%;
   margin: auto;
-}
+  font-family: Arial, Helvetica, sans-serif;
+  }
 
 .action{
   width: 100%;
@@ -64,6 +65,10 @@ main{
 
 .elenco{
   margin-left: 30px;
+}
+
+.speciale{
+  margin-top: 10px;
 }
 
 .elenco h3{
