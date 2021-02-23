@@ -38,19 +38,59 @@ main{
   border-radius: 5px 5px 0 0;
 }
 
+.item{
+  background-color: white;
+  margin-top: 2px;
+}
+
 .add-blu{
   color: white;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
   padding: 5px 10px;
   background-color: rgb(69, 199, 250);
-  border-radius: 5px;
   margin-top: 15px;
   margin-left: 30px;
 }
 
 .add{
   color: lightgrey;
+  border: 1px solid lightgrey;
   background-color: white;
   padding: 5px 10px;
   border-radius: 5px;
   margin-top: 15px;
+}
+
+.elenco{
+  margin-left: 30px;
+}
+
+.elenco h3{
+  font-size: 20px;
+}
+
+.check{
+  color: rgb(52, 247, 52);
+  width: 20px;
+  border: 1px solid rgb(52, 247, 52);
+  text-align: center;
+  line-height: 100%;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.editorial{
+  color: white;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: rgb(69, 199, 250);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.item span{
+  margin-left: 10px;
+  font-size: 15px;
 }
